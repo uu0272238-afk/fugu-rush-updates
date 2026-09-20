@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "minShell": "1.0.0",
+  "files": [
+    {
+      "path": "assets/index-L_ROlt0I.css",
+      "sha256": "9a98b46cf862376af965dc58b1e60cfc2517b0d3c6483c1bdeac6e76ff031ca7",
+      "size": 64733
+    },
+    {
+      "path": "assets/index-udHsfU-e.js",
+      "sha256": "45185bababf547c5582631dcc4ca7ca13f64e755a3ba98224048eec68204b539",
+      "size": 1295027
+    },
+    {
+      "path": "index.html",
+      "sha256": "1013f3693daf4aaec3624d53e9536f133b01b3654c11e4684b4c9d596f39d006",
+      "size": 1847
+    }
+  ]
+}
